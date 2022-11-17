@@ -1,4 +1,4 @@
-export const Footer = () => {
+export const Resume = () => {
   return (
     <section className='Resume'>
       testing
