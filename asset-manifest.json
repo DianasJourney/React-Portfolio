@@ -1,19 +1,21 @@
 {
   "files": {
-    "main.css": "/react-spicy-portfolio/static/css/main.be186fb1.css",
-    "main.js": "/react-spicy-portfolio/static/js/main.c939ad13.js",
+    "main.css": "/react-spicy-portfolio/static/css/main.59ca7f5a.css",
+    "main.js": "/react-spicy-portfolio/static/js/main.1f5c8c66.js",
     "static/js/787.4bdfadf5.chunk.js": "/react-spicy-portfolio/static/js/787.4bdfadf5.chunk.js",
     "static/media/project-img1.png": "/react-spicy-portfolio/static/media/project-img1.c80bc980e57e30a8caac.png",
     "static/media/banner-bg.jpg": "/react-spicy-portfolio/static/media/banner-bg.0491bc213c5490e6c9a2.jpg",
     "static/media/color-sharp.png": "/react-spicy-portfolio/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/color-sharp2.png": "/react-spicy-portfolio/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
     "static/media/project-img2.jpg": "/react-spicy-portfolio/static/media/project-img2.e7d773bcbb6c928c8651.jpg",
+    "static/media/project-img4.jpg": "/react-spicy-portfolio/static/media/project-img4.23810576026bffc16daa.jpg",
     "static/media/avatar.png": "/react-spicy-portfolio/static/media/avatar.a966a45b903a3c6e8a8f.png",
     "static/media/contact.png": "/react-spicy-portfolio/static/media/contact.729d0b266a3c5a5a5b12.png",
     "static/media/CentraNo2-Bold.ttf": "/react-spicy-portfolio/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
     "static/media/CentraNo2-Medium.ttf": "/react-spicy-portfolio/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
     "static/media/CentraNo2-Book.ttf": "/react-spicy-portfolio/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
-    "static/media/footer-bg.png": "/react-spicy-portfolio/static/media/footer-bg.7bd67c0f73571d0acc02.png",
+    "static/media/project-img5.png": "/react-spicy-portfolio/static/media/project-img5.9f551a6be1f6452270cf.png",
+    "static/media/project-img6.png": "/react-spicy-portfolio/static/media/project-img6.60e37cb5ce41e7070473.png",
     "static/media/revicons.eot": "/react-spicy-portfolio/static/media/revicons.a77de540a38981833f9e.eot",
     "static/media/revicons.ttf": "/react-spicy-portfolio/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/react-spicy-portfolio/static/media/revicons.e8746a624ed098489406.woff",
@@ -26,12 +28,12 @@
     "static/media/arrow2.svg": "/react-spicy-portfolio/static/media/arrow2.3d9522b6fd8f2464b7200ebf2c1bb09a.svg",
     "static/media/arrow1.svg": "/react-spicy-portfolio/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
     "static/media/nav-icon2.svg": "/react-spicy-portfolio/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
-    "main.be186fb1.css.map": "/react-spicy-portfolio/static/css/main.be186fb1.css.map",
-    "main.c939ad13.js.map": "/react-spicy-portfolio/static/js/main.c939ad13.js.map",
+    "main.59ca7f5a.css.map": "/react-spicy-portfolio/static/css/main.59ca7f5a.css.map",
+    "main.1f5c8c66.js.map": "/react-spicy-portfolio/static/js/main.1f5c8c66.js.map",
     "787.4bdfadf5.chunk.js.map": "/react-spicy-portfolio/static/js/787.4bdfadf5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.be186fb1.css",
-    "static/js/main.c939ad13.js"
+    "static/css/main.59ca7f5a.css",
+    "static/js/main.1f5c8c66.js"
   ]
 }
