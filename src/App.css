@@ -556,3 +556,8 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   letter-spacing: 0.5px;
   margin-top: 20px;
 }
+
+.resume{
+  background: rgb(46, 31, 48);
+  text-align: center;
+}
