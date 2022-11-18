@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-spicy-portfolio/static/css/main.59ca7f5a.css",
-    "main.js": "/react-spicy-portfolio/static/js/main.1f5c8c66.js",
+    "main.css": "/react-spicy-portfolio/static/css/main.fa894a25.css",
+    "main.js": "/react-spicy-portfolio/static/js/main.be017a0b.js",
     "static/js/787.4bdfadf5.chunk.js": "/react-spicy-portfolio/static/js/787.4bdfadf5.chunk.js",
     "static/media/project-img1.png": "/react-spicy-portfolio/static/media/project-img1.c80bc980e57e30a8caac.png",
     "static/media/banner-bg.jpg": "/react-spicy-portfolio/static/media/banner-bg.0491bc213c5490e6c9a2.jpg",
@@ -11,6 +11,7 @@
     "static/media/project-img4.jpg": "/react-spicy-portfolio/static/media/project-img4.23810576026bffc16daa.jpg",
     "static/media/avatar.png": "/react-spicy-portfolio/static/media/avatar.a966a45b903a3c6e8a8f.png",
     "static/media/contact.png": "/react-spicy-portfolio/static/media/contact.729d0b266a3c5a5a5b12.png",
+    "static/media/resume.png": "/react-spicy-portfolio/static/media/resume.974ba1a825103159d370.png",
     "static/media/CentraNo2-Bold.ttf": "/react-spicy-portfolio/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
     "static/media/CentraNo2-Medium.ttf": "/react-spicy-portfolio/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
     "static/media/CentraNo2-Book.ttf": "/react-spicy-portfolio/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
@@ -28,12 +29,12 @@
     "static/media/arrow2.svg": "/react-spicy-portfolio/static/media/arrow2.3d9522b6fd8f2464b7200ebf2c1bb09a.svg",
     "static/media/arrow1.svg": "/react-spicy-portfolio/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
     "static/media/nav-icon2.svg": "/react-spicy-portfolio/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
-    "main.59ca7f5a.css.map": "/react-spicy-portfolio/static/css/main.59ca7f5a.css.map",
-    "main.1f5c8c66.js.map": "/react-spicy-portfolio/static/js/main.1f5c8c66.js.map",
+    "main.fa894a25.css.map": "/react-spicy-portfolio/static/css/main.fa894a25.css.map",
+    "main.be017a0b.js.map": "/react-spicy-portfolio/static/js/main.be017a0b.js.map",
     "787.4bdfadf5.chunk.js.map": "/react-spicy-portfolio/static/js/787.4bdfadf5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.59ca7f5a.css",
-    "static/js/main.1f5c8c66.js"
+    "static/css/main.fa894a25.css",
+    "static/js/main.be017a0b.js"
   ]
 }
