@@ -1,11 +1,11 @@
 <h1 align="center">Hey there! My Name's Diana and this is my Portfolio 🌱</h1>
-<h3 align="center">A work in progress Full Stack Web Developer</h3>
+<h3 align="center">A Full Stack Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dianasjourney&label=Profile%20views&color=0e75b6&style=flat" alt="dianasjourney" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dianasjourney" alt="dianasjourney" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **MERN**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DianasJourney](https://github.com/DianasJourney)
 
@@ -24,8 +24,7 @@
 
 ### Overview
 
-- This portfolio was created with the knowledge I have gained throughout the first week and a half of UofT SCS Bootcamp using HTML and CSS. 
-- The portfolio displays my projects, about me and how to contact me.
+- This portfolio was created with the knowledge I have gained throughout my entire time at an intense and fast paced BootCamp.
 
 
 ### The following critera for this assignment: 
