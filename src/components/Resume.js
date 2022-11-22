@@ -4,8 +4,9 @@ import resumee from '../assets/resume/resume.png'
 export const Resume = () => {
   return (
                 <div className="resume"> 
-                <p>(This resume is just a filler while I work on my current one!)</p>
-                    <h1>View or download</h1>
+                <h1>(Skills)</h1>
+                <p>HTML, CSS, JQUERY, JAVASCRIPT, REACT, NODEJS, MERN</p>
+                    <h3>View or download</h3>
                     <a href={resumee} className="logoColor">
                         <h3 className='profText'>My Resume</h3>
                     </a>

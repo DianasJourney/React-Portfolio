@@ -36,12 +36,12 @@ export const Projects = () => {
     },
     {
       title: 'Work Day Scheduler',
-      description: 'Mongo, NoSQL, MERN, React, Node',
+      description: 'HTML, CSS, Bootstrap, and Jquery',
       imgUrl: projImg5
     },
     {
       title: 'Quiz App',
-      description: 'Mongo, NoSQL, MERN, React, Node',
+      description: 'HTML, CSS, and JavaScript',
       imgUrl: projImg6
     }
   ]
@@ -68,7 +68,14 @@ export const Projects = () => {
                     >
                       <Nav.Item>
                         <Nav.Link eventKey='first'>
-                          Hover For More Details
+                          <ul>
+                            <li><a href="">Beer Meal Buddies</a></li>
+                            <li><a href="https://goodie-foodies-heroku.herokuapp.com/">Good Food Review</a></li>
+                            <li><a href="#">ApolloDAE</a></li>
+                            <li><a href="https://dianasjourney.github.io/live-weather/">Weather Dashboard</a></li>
+                            <li><a href="https://dianasjourney.github.io/event-calender/">Work Schedule</a></li>
+                            <li><a href="https://dianasjourney.github.io/Test-your-knowledge/">Quiz Application</a></li>
+                            </ul>
                         </Nav.Link>
                       </Nav.Item>
                     </Nav>
