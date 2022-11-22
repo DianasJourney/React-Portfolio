@@ -56,7 +56,9 @@
 - THEN I am presented with text or icon links to the developer’s GitHub and LinkedIn profiles, and their profile on a third platform (Stack Overflow, Twitter
 
 ### Usage
-https://dianasjourney.github.io/My-Portfolio/
+https://dianasjourney.github.io/react-spicy-portfolio/
+![tempprofile](https://user-images.githubusercontent.com/109758045/203437014-c955fbba-e4ef-4661-a864-328526d9580f.jpg)
+
 
 ### License 
 Ⓒ 2022 Diana Vu
