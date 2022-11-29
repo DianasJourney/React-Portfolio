@@ -25,8 +25,8 @@ export const Projects = () => {
       imgUrl: projImg2
     },
     {
-      title: 'To be decided',
-      description: 'Mongo, NoSQL, MERN, React, Node',
+      title: 'ApolloDAE',
+      description: 'Mongo, NoSQL, MERN, React, Node, Tailwind',
       imgUrl: projImg3
     },
     {
@@ -71,7 +71,7 @@ export const Projects = () => {
                           <ul>
                             <li><a href="">Beer Meal Buddies</a></li>
                             <li><a href="https://goodie-foodies-heroku.herokuapp.com/">Good Food Review</a></li>
-                            <li><a href="#">ApolloDAE</a></li>
+                            <li><a href="https://apollodae001.herokuapp.com/">ApolloDAE</a></li>
                             <li><a href="https://dianasjourney.github.io/live-weather/">Weather Dashboard</a></li>
                             <li><a href="https://dianasjourney.github.io/event-calender/">Work Schedule</a></li>
                             <li><a href="https://dianasjourney.github.io/Test-your-knowledge/">Quiz Application</a></li>
