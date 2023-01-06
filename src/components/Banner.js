@@ -3,7 +3,7 @@ import { Container, Row, Col } from 'react-bootstrap'
 // import avatar from '../assets/img/avatar.png'
 import 'animate.css'
 import TrackVisibility from 'react-on-screen'
-import tempprofile from '../assets/img/tempprofile.jpg'
+// import tempprofile from '../assets/img/tempprofile.jpg'
 
 export const Banner = () => {
   const [loopNum, setLoopNum] = useState(0)
@@ -86,7 +86,7 @@ export const Banner = () => {
                     isVisible ? 'animate__animated animate__zoomIn' : ''
                   }
                 >
-                  <img src={tempprofile} alt='Header Img' />
+//                   <img src={tempprofile} alt='Header Img' />
                 </div>
               )}
             </TrackVisibility>
