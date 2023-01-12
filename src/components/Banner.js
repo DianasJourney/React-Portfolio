@@ -1,9 +1,8 @@
 import { useState, useEffect } from 'react'
 import { Container, Row, Col } from 'react-bootstrap'
-// import avatar from '../assets/img/avatar.png'
 import 'animate.css'
 import TrackVisibility from 'react-on-screen'
-// import tempprofile from '../assets/img/tempprofile.jpg'
+import avatar from '../assets/img/avatar.png'
 
 export const Banner = () => {
   const [loopNum, setLoopNum] = useState(0)
@@ -63,13 +62,13 @@ export const Banner = () => {
                     isVisible ? 'animate__animated animate__fadeIn' : ''
                   }
                 >
-                  <span className='tagline'>You're Viewing My Portfolio</span>
+                  <span className='tagline'>Diana's Portfolio</span>
                   <h1>
-                    {`Welcome! I'm Diana `}{' '}
+                    {`Hello I'm Diana `}{' '}
                     <span
                       className='txt-rotate'
                       dataPeriod='1000'
-                      data-rotate='[ "Full Stack Developer" ]'
+                      data-rotate='[ "Full Stack Developer"]'
                     >
                       <span className='wrap'>{text}</span>
                     </span>
@@ -86,7 +85,11 @@ export const Banner = () => {
                     isVisible ? 'animate__animated animate__zoomIn' : ''
                   }
                 >
-//                   <img src={tempprofile} alt='Header Img' />
+                  <img
+                    style={{ borderRadius: '50px' }}
+                    src={avatar}
+                    alt='Header Img'
+                  />
                 </div>
               )}
             </TrackVisibility>

@@ -1,8 +1,8 @@
 import { useState, useEffect } from 'react'
 import { Navbar, Nav, Container } from 'react-bootstrap'
 import navIcon1 from '../assets/img/nav-icon1.svg'
-import gitHubicon from '../assets/img/githubicon.png'
-import emailIcon from '../assets/img/emailicon.png'
+import navIcon2 from '../assets/img/github.svg'
+import emailIcon from '../assets/img/envelope.svg'
 import { HashLink } from 'react-router-hash-link'
 import { BrowserRouter as Router } from 'react-router-dom'
 
@@ -73,10 +73,13 @@ export const NavBar = () => {
                 <a href='https://www.linkedin.com/in/diana-vu-3373a0228/'>
                   <img src={navIcon1} alt='' />
                 </a>
+
                 <a href='https://github.com/DianasJourney?tab=repositories'>
-                  <img src={gitHubicon} alt='' />
+                  <img src={navIcon2} alt='' />
+
+
                 </a>
-                <a href='#'>
+                <a href='diana.vu@hotmail.com'>
                   <img src={emailIcon} alt='' />
                 </a>
               </div>

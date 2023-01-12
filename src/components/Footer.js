@@ -1,7 +1,7 @@
 import { Container, Row, Col } from 'react-bootstrap'
 import navIcon1 from '../assets/img/nav-icon1.svg'
-import gitHubicon from '../assets/img/githubicon.png'
-import emailIcon from '../assets/img/emailicon.png'
+import githubicon from '../assets/img/github.svg'
+import emailIcon from '../assets/img/envelope.svg'
 
 export const Footer = () => {
   return (
@@ -15,7 +15,7 @@ export const Footer = () => {
                 <img src={navIcon1} alt='Icon' />
               </a>
               <a href='https://github.com/DianasJourney?tab=repositories'>
-                <img src={gitHubicon} alt='Icon' />
+                <img src={githubicon} alt='Icon' />
               </a>
               <a href='#'>
                 <img src={emailIcon} alt='Icon' />
