@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-spicy-portfolio/static/css/main.fa894a25.css",
-    "main.js": "/react-spicy-portfolio/static/js/main.c1a28942.js",
+    "main.js": "/react-spicy-portfolio/static/js/main.e06a63be.js",
     "static/js/787.4bdfadf5.chunk.js": "/react-spicy-portfolio/static/js/787.4bdfadf5.chunk.js",
     "static/media/project-img1.png": "/react-spicy-portfolio/static/media/project-img1.c80bc980e57e30a8caac.png",
     "static/media/banner-bg.jpg": "/react-spicy-portfolio/static/media/banner-bg.0491bc213c5490e6c9a2.jpg",
@@ -15,7 +15,7 @@
     "static/media/CentraNo2-Medium.ttf": "/react-spicy-portfolio/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
     "static/media/CentraNo2-Book.ttf": "/react-spicy-portfolio/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
     "static/media/project-img5.png": "/react-spicy-portfolio/static/media/project-img5.9f551a6be1f6452270cf.png",
-    "static/media/tempprofile.jpg": "/react-spicy-portfolio/static/media/tempprofile.1471a24ec89c96cc2c5a.jpg",
+    "static/media/avatar.png": "/react-spicy-portfolio/static/media/avatar.d5a788ae290a8ea66b77.png",
     "static/media/project-img6.png": "/react-spicy-portfolio/static/media/project-img6.60e37cb5ce41e7070473.png",
     "static/media/revicons.eot": "/react-spicy-portfolio/static/media/revicons.a77de540a38981833f9e.eot",
     "static/media/revicons.ttf": "/react-spicy-portfolio/static/media/revicons.57fd05d4ae650374c8de.ttf",
@@ -24,15 +24,17 @@
     "static/media/meter1.svg": "/react-spicy-portfolio/static/media/meter1.c4085ff859afbd8488e9da47d4953850.svg",
     "static/media/meter3.svg": "/react-spicy-portfolio/static/media/meter3.2201f7e4df22bc4b08180210474f28cc.svg",
     "index.html": "/react-spicy-portfolio/index.html",
+    "static/media/github.svg": "/react-spicy-portfolio/static/media/github.9cd776745ea31fd6c12f1707b2265f71.svg",
     "static/media/nav-icon1.svg": "/react-spicy-portfolio/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "static/media/arrow2.svg": "/react-spicy-portfolio/static/media/arrow2.3d9522b6fd8f2464b7200ebf2c1bb09a.svg",
     "static/media/arrow1.svg": "/react-spicy-portfolio/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
+    "static/media/envelope.svg": "/react-spicy-portfolio/static/media/envelope.99f1d0880fde177c0b9468296c907d16.svg",
     "main.fa894a25.css.map": "/react-spicy-portfolio/static/css/main.fa894a25.css.map",
-    "main.c1a28942.js.map": "/react-spicy-portfolio/static/js/main.c1a28942.js.map",
+    "main.e06a63be.js.map": "/react-spicy-portfolio/static/js/main.e06a63be.js.map",
     "787.4bdfadf5.chunk.js.map": "/react-spicy-portfolio/static/js/787.4bdfadf5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fa894a25.css",
-    "static/js/main.c1a28942.js"
+    "static/js/main.e06a63be.js"
   ]
 }
