@@ -2,7 +2,7 @@ import { Container, Row, Col, Tab, Nav } from 'react-bootstrap'
 import { ProjectCard } from './ProjectCard'
 import projImg1 from '../assets/img/project-img1.png'
 import projImg2 from '../assets/img/project-img2.jpg'
-import projImg3 from '../assets/img/project-img3.png'
+import projImg3 from '../assets/img/project-img3.jpg'
 import projImg4 from '../assets/img/project-img4.jpg'
 import projImg5 from '../assets/img/project-img5.png'
 import projImg6 from '../assets/img/project-img6.png'
@@ -26,17 +26,18 @@ export const Projects = () => {
     },
     {
       title: 'ApolloDAE',
-      description: 'Mongo, NoSQL, MERN, React, Node, Tailwind',
+      description: 'MERN Stack, Tailwind CSS',
       imgUrl: projImg3
     },
     {
       title: 'Weather Forecast',
       description: 'HTML, CSS, JavaScript, API',
-      imgUrl: projImg4
+      imgUrl: projImg4,
+      
     },
     {
       title: 'Work Day Scheduler',
-      description: 'HTML, CSS, Bootstrap, and Jquery',
+      description: 'HTML, CSS, Bootstrap, and jQuery',
       imgUrl: projImg5
     },
     {
@@ -59,7 +60,6 @@ export const Projects = () => {
                   }
                 >
                   <h2>Projects</h2>
-                  <p>These are the projects I've worked on</p>
                   <Tab.Container id='projects-tabs' defaultActiveKey='first'>
                     <Nav
                       variant='pills'
@@ -68,14 +68,13 @@ export const Projects = () => {
                     >
                       <Nav.Item>
                         <Nav.Link eventKey='first'>
-                          <ul>
-                            <li><a href="">Beer Meal Buddies</a></li>
+                            <li><a href="https://branbao1995.github.io/Beer-Meal-Buddies/">Beer Meal Buddies</a></li>
                             <li><a href="https://goodie-foodies-heroku.herokuapp.com/">Good Food Review</a></li>
                             <li><a href="https://apollodae001.herokuapp.com/">ApolloDAE</a></li>
                             <li><a href="https://dianasjourney.github.io/live-weather/">Weather Dashboard</a></li>
                             <li><a href="https://dianasjourney.github.io/event-calender/">Work Schedule</a></li>
                             <li><a href="https://dianasjourney.github.io/Test-your-knowledge/">Quiz Application</a></li>
-                            </ul>
+
                         </Nav.Link>
                       </Nav.Item>
                     </Nav>

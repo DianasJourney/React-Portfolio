@@ -5,6 +5,7 @@ import navIcon2 from '../assets/img/github.svg'
 import emailIcon from '../assets/img/envelope.svg'
 import { HashLink } from 'react-router-hash-link'
 import { BrowserRouter as Router } from 'react-router-dom'
+import Resume from '../assets/resume/Resume.pdf'
 
 export const NavBar = () => {
   const [activeLink, setActiveLink] = useState('home')
@@ -67,6 +68,17 @@ export const NavBar = () => {
               >
                 Projects
               </Nav.Link>
+              <Nav.Link
+                href={Resume}
+                className={
+                  activeLink === 'Resume'
+                    ? 'active navbar-link'
+                    : 'navbar-link'
+                }
+                onClick={() => onUpdateActiveLink('project')}
+              >
+                Resume
+              </Nav.Link>
             </Nav>
             <span className='navbar-text'>
               <div className='social-icon'>
@@ -76,8 +88,6 @@ export const NavBar = () => {
 
                 <a href='https://github.com/DianasJourney?tab=repositories'>
                   <img src={navIcon2} alt='' />
-
-
                 </a>
                 <a href='diana.vu@hotmail.com'>
                   <img src={emailIcon} alt='' />
