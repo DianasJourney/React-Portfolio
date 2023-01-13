@@ -1,6 +1,10 @@
-import meter1 from '../assets/img/meter1.svg'
-import meter2 from '../assets/img/meter2.svg'
-import meter3 from '../assets/img/meter3.svg'
+import reactIcon from '../assets/img/reacticon.png';
+import htmlIcon from '../assets/img/htmlicon.png';
+import javascriptIcon from '../assets/img/javascripticon.png';
+import nodeIcon from '../assets/img/nodeicon.png';
+import bootstrapIcon from '../assets/img/bootstrapicon.png';
+import mysqlIcon from '../assets/img/mysqlicon.png';
+import mongodbIcon from '../assets/img/mongodbicon.png'
 import Carousel from 'react-multi-carousel'
 import 'react-multi-carousel/lib/styles.css'
 
@@ -8,7 +12,6 @@ import 'react-multi-carousel/lib/styles.css'
 export const Skills = () => {
   const responsive = {
     superLargeDesktop: {
-      // the naming can be any, depends on you.
       breakpoint: { max: 4000, min: 3000 },
       items: 5
     },
@@ -33,30 +36,38 @@ export const Skills = () => {
           <div className='col-12'>
             <div className='skill-bx wow zoomIn'>
               <h2>Skills</h2>
-              <p>
-                My list of skills<br></br> Still practicing and honing it to
-                perfection
-              </p>
               <Carousel
                 responsive={responsive}
                 infinite={true}
                 className='owl-carousel owl-theme skill-slider'
               >
                 <div className='item'>
-                  <img src={meter1} alt='Image' />
+                  <img src={reactIcon} alt='Image' />
                   <h5>React</h5>
                 </div>
                 <div className='item'>
-                  <img src={meter2} alt='Image' />
+                  <img src={javascriptIcon} alt='Image' />
                   <h5>JavaScript</h5>
                 </div>
                 <div className='item'>
-                  <img src={meter3} alt='Image' />
+                  <img src={nodeIcon} alt='Image' />
                   <h5>Node</h5>
                 </div>
                 <div className='item'>
-                  <img src={meter1} alt='Image' />
+                  <img src={htmlIcon} alt='Image' />
                   <h5>HTML</h5>
+                </div>
+                  <div className='item'>
+                  <img src={bootstrapIcon} alt='Image' />
+                  <h5>Bootstrap</h5>
+                </div>
+                  <div className='item'>
+                  <img src={mysqlIcon} alt='Image' />
+                  <h5>MySQL</h5>
+                </div>
+                  <div className='item'>
+                  <img src={mongodbIcon} alt='Image' />
+                  <h5>MongoDB</h5>
                 </div>
               </Carousel>
             </div>
