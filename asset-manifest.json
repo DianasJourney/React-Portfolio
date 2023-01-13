@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/react-spicy-portfolio/static/css/main.fa894a25.css",
-    "main.js": "/react-spicy-portfolio/static/js/main.e06a63be.js",
+    "main.js": "/react-spicy-portfolio/static/js/main.159a2a34.js",
     "static/js/787.4bdfadf5.chunk.js": "/react-spicy-portfolio/static/js/787.4bdfadf5.chunk.js",
     "static/media/project-img1.png": "/react-spicy-portfolio/static/media/project-img1.c80bc980e57e30a8caac.png",
     "static/media/banner-bg.jpg": "/react-spicy-portfolio/static/media/banner-bg.0491bc213c5490e6c9a2.jpg",
-    "static/media/color-sharp.png": "/react-spicy-portfolio/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/color-sharp2.png": "/react-spicy-portfolio/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/project-img3.jpg": "/react-spicy-portfolio/static/media/project-img3.9b57cf2c4516ad9bef53.jpg",
     "static/media/project-img2.jpg": "/react-spicy-portfolio/static/media/project-img2.e7d773bcbb6c928c8651.jpg",
     "static/media/project-img4.jpg": "/react-spicy-portfolio/static/media/project-img4.23810576026bffc16daa.jpg",
     "static/media/contact.png": "/react-spicy-portfolio/static/media/contact.729d0b266a3c5a5a5b12.png",
-    "static/media/resume.png": "/react-spicy-portfolio/static/media/resume.974ba1a825103159d370.png",
+    "static/media/Resume.pdf": "/react-spicy-portfolio/static/media/Resume.a9b0b1b8fd6c00d6aae7.pdf",
     "static/media/CentraNo2-Bold.ttf": "/react-spicy-portfolio/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
     "static/media/CentraNo2-Medium.ttf": "/react-spicy-portfolio/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
     "static/media/CentraNo2-Book.ttf": "/react-spicy-portfolio/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
@@ -26,15 +26,13 @@
     "index.html": "/react-spicy-portfolio/index.html",
     "static/media/github.svg": "/react-spicy-portfolio/static/media/github.9cd776745ea31fd6c12f1707b2265f71.svg",
     "static/media/nav-icon1.svg": "/react-spicy-portfolio/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
-    "static/media/arrow2.svg": "/react-spicy-portfolio/static/media/arrow2.3d9522b6fd8f2464b7200ebf2c1bb09a.svg",
-    "static/media/arrow1.svg": "/react-spicy-portfolio/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
     "static/media/envelope.svg": "/react-spicy-portfolio/static/media/envelope.99f1d0880fde177c0b9468296c907d16.svg",
     "main.fa894a25.css.map": "/react-spicy-portfolio/static/css/main.fa894a25.css.map",
-    "main.e06a63be.js.map": "/react-spicy-portfolio/static/js/main.e06a63be.js.map",
+    "main.159a2a34.js.map": "/react-spicy-portfolio/static/js/main.159a2a34.js.map",
     "787.4bdfadf5.chunk.js.map": "/react-spicy-portfolio/static/js/787.4bdfadf5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fa894a25.css",
-    "static/js/main.e06a63be.js"
+    "static/js/main.159a2a34.js"
   ]
 }
